@@ -66,7 +66,7 @@ export default function Home() {
             <h2 className="mt-2 font-bold text-4xl text-gray-900 sm:text-5xl">Start chatting in minutes
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              Chatting to your PDF file has naver been easier than with Quill
+              Chatting to your PDF file has naver been easier than with DocTalk
             </p>
           </div>
         </div>
